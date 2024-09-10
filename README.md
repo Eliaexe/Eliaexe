@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elia Sidori</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack web developer</h3>
 
-- 🔭 I’m currently working on **Paradis**
+- 🔭 I’m currently working on **Private Projects**
 
 - 📫 How to reach me **elia98sidori@gmail.com**
 
